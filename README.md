@@ -1,1 +1,1 @@
-# CommonOperationsDemoProject
+# CommonOperationsKatalonProject
